@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Liquidsoul004 (Alex)
-- 👀 I’m interested in Computer science engineering and related 
-- 🌱 I’m currently learning Computer science on my own
-- 💞️ I’m looking to collaborate on Like Minded 
-- 📫 How to reach me ...
+-  @Liquidsoul004
+-  I’m interested in Computer science engineering, ethical hacking and cybersecurity
+-  I’m currently learning things on my own
+-  I’m looking for like minded squads to collaborate with.
