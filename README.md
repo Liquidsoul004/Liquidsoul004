@@ -1,4 +1,4 @@
 -  @Liquidsoul004
--  I’m interested in Computer science engineering, ethical hacking and cybersecurity
--  I’m currently learning things on my own
--  I’m looking for like minded squads to collaborate with.
+- interested in Computer science engineering, ethical hacking & cybersecurity
+-  Self taught learning 
+- looking 4 like minded squads to collaborate with.
